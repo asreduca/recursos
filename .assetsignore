@@ -1,0 +1,7 @@
+# Publish only the website files and its public assets.
+*
+!/*.html
+!/*.css
+!/*.js
+!/assets/
+!/assets/**
