@@ -98,19 +98,12 @@ window.ASR_PRODUCTS = [
   {
     "id": "agenda-sea",
     "cat": "sea",
-    "name": "Agenda escolar SEA",
-    "desc": "Una propuesta de agenda para acompañar la organización de los colegios del SEA.",
+    "name": "Generador de registros docentes SEA",
+    "desc": "Prepara pases de lista y registros de evidencias y evaluación para primaria, secundaria y preparatoria. Imprime por materia o reúne varios grupos en un libro para engargolar",
     "kind": "Organización",
     "icon": "▤",
-    "checkout": "",
-    "price": "Precio por definir",
-    "status": "Ejemplo de producto",
-    "cover": "assets/vista-agenda-sea.svg",
-    "images": [
-      [
-        "assets/vista-agenda-sea.svg",
-        "Vista conceptual de Agenda escolar SEA"
-      ]
-    ]
+    "status": "En fase piloto",
+    "cover": "assets/logo-principal.svg",
+    "images": []
   }
 ];
